@@ -71,3 +71,5 @@ export EDITOR=code
 # Set ipdb as the default Python debugger
 export PYTHONBREAKPOINT=ipdb.set_trace
 sudo /etc/init.d/postgresql start
+export BROWSER="/  echo export BROWSER="/mnt/c/Program Files/BraveSoftware/Brave-Browser/Application/brave.exe
+export GH_BROWSER="'/mnt/c/Program Files/BraveSoftware/Brave-Browser/Application/brave.exe'"
