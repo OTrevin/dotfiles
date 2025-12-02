@@ -75,3 +75,5 @@ export BROWSER="'/mnt/c/Program Files/BraveSoftware/Brave-Browser/Application/br
 export GH_BROWSER="'/mnt/c/Program Files/BraveSoftware/Brave-Browser/Application/brave.exe'"
 
 . "$HOME/.local/bin/env"
+export PATH="$HOME/.rbenv/bin:$PATH"
+eval "$(rbenv init - zsh)"
