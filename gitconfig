@@ -62,3 +62,5 @@
 [user]
 	email = omar.dintec@gmail.com
 	name = Omar Trevino
+[url "git@github.com:"]
+	insteadOf = https://github.com/
